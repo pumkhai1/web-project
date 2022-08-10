@@ -9,7 +9,7 @@
     height: 40%;
     display: flex;
     justify-content: center;
-    position: 10000px 10px 10px 10px;
+    float:right;
 
 
 }
