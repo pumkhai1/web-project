@@ -25,18 +25,18 @@ const blogPosts = [
 		body: ` I believed that every engineering displines have some sort of math and physic as their fundamental. For software engineer, I think discreet math and data structure & algorithm were the fundamental. I know that there are people out there that hate the term "software engineer" and claimed that software engineer is not a real engineer for lack of physical science as part of it fundamental. I like to make a point that data structure and algorithm make it the physical science equivalent for other engineering disciplines.`,
 		author: "Pum Khai ",
 		imgUrl:
-			"",
+			"https://geekflare.com/wp-content/uploads/2022/02/Software-Engineering-1-840x628.jpg",
 	}
 ];
 
 return (
 	<div >
 		<div>
-     		<br />
-        	<br />
-        	<br />
-        	<br />
-      	</div>
+			<br/>
+			<br/>
+			<br/>
+
+		</div>
       	<div className="title">
         	<h1>{text}</h1>
       	</div>
