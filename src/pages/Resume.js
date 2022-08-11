@@ -8,6 +8,9 @@ function Resume(){
             <br />
             <br />
             <br />
+            <br />
+            <br />
+            <br />
             <embed src={resume} width="100%" height="100%"/>
         </div>
     )

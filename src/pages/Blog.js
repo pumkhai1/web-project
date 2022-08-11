@@ -7,7 +7,7 @@ import {useTypewriter} from "react-simple-typewriter";
 const Blogs = () => {
 
 	const {text} = useTypewriter({
-		words: [ 'Welcome to My Blogs', 'This is Where I Post', 'My Diary','And Opinions'],
+		words: [ 'Welcome to My', 'Blogs', 'This is Where','I Post', 'My Diary','And Opinions'],
 		loop: 0 // Infinit
 	  });
 
@@ -45,6 +45,12 @@ return (
 		<br />
       	<br />
 		<br />
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
 		<div className="posts-container">
 			{blogPosts.map((post, index) => (
 			<Post key={index} index={index} post={post} />
