@@ -1,7 +1,6 @@
 import Proj1 from "../assets/Proj1.png"
 import Proj2 from "../assets/Proj2.png"
 
-
 export const projectList = [
     {
         name: "Jamming",
@@ -18,11 +17,11 @@ export const projectList = [
         gitLink: "https://github.com/pumkhai1/jammming-project",
     },
     {
-        name: "Investor Strategies",
-        image: "",
-        skills: "javaScript, HTML, CSS, ReactJS, Python", 
-        desc: "Comming soon. Investor Ruled based on Warren Buffet strategies",
-        gitLink: "https://github.com/pumkhai1/jammming-project",
+        name: "Chat Bot",
+        image: "https://t4.ftcdn.net/jpg/01/73/87/55/360_F_173875594_YKuT1PxX9LygQtsODgDa0IJ93tszGNNf.jpg",
+        skills: "Python, PyTorch", 
+        desc: "A simple Neural Network Feeed Forward chat bot",
+        gitLink: "https://github.com/pumkhai1/ChatBot",
     },
     
 ]
