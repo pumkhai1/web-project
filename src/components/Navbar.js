@@ -28,7 +28,6 @@ export default function Navbar() {
             <Link to = "/Projects"> Projects </Link>
             <Link to = "/Resume"> Resume </Link>
             <Link to = "/Experiences"> Experiences </Link>
-
         </div>
     </div>
   )
