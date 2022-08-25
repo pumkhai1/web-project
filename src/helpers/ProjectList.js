@@ -25,7 +25,7 @@ export const projectList = [
     },
     {
         name: "Locator",
-        image: "https://previews.123rf.com/images/hkeita/hkeita1603/hkeita160300037/55440201-map-locator-icon.jpg",
+        image: "https://store-images.s-microsoft.com/image/apps.53800.13510798882873263.3f57c0da-901b-42e0-bec6-00e24891137a.77e54ba2-2bef-488d-b53e-fee2e2267b2d?mode=scale&q=90&h=300&w=300",
         skills: "Python, tkinker GUI, Google Map API",
         desc: "A map with recommmended places.",
         gitLink: "https://github.com/pumkhai1/Locator"
