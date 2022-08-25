@@ -7,14 +7,14 @@ export const projectList = [
         image: Proj1,
         skills: "javaScript, HTML, CSS, ReactJS",
         desc: "A Spotify querifying project with Codecademy",
-        gitLink: "https://github.com/pumkhai1/jammming-project",
+        gitLink: "",
     },
     {
         name: "Website",
         image: Proj2,
         skills: "javaScript, HTML, CSS, ReactJS",
         desc: "This website and my first professional personal website.",
-        gitLink: "https://github.com/pumkhai1/jammming-project",
+        gitLink: "https://github.com/pumkhai1/web-project",
     },
     {
         name: "Chat Bot",
