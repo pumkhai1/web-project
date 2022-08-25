@@ -23,5 +23,12 @@ export const projectList = [
         desc: "A simple Neural Network Feeed Forward chat bot",
         gitLink: "https://github.com/pumkhai1/ChatBot",
     },
+    {
+        name: "Locator",
+        image: "https://previews.123rf.com/images/hkeita/hkeita1603/hkeita160300037/55440201-map-locator-icon.jpg",
+        skills: "Python, tkinker GUI, Google Map API",
+        desc: "A map with recommmended places.",
+        gitLink: "https://github.com/pumkhai1/Locator"
+    }
     
 ]
