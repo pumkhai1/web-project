@@ -25,7 +25,7 @@ export const projectList = [
     },
     {
         name: "Locator",
-        image: "https://store-images.s-microsoft.com/image/apps.53800.13510798882873263.3f57c0da-901b-42e0-bec6-00e24891137a.77e54ba2-2bef-488d-b53e-fee2e2267b2d?mode=scale&q=90&h=300&w=300",
+        image: "https://www.magearray.com/media/catalog/product/cache/757ea7d2b7282843694bdb6de7a23598/m/a/magearray-storelocator-icon.png",
         skills: "Python, tkinker GUI, Google Map API",
         desc: "A map with recommmended places.",
         gitLink: "https://github.com/pumkhai1/Locator"
