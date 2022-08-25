@@ -13,7 +13,7 @@ export const projectList = [
         name: "Website",
         image: Proj2,
         skills: "javaScript, HTML, CSS, ReactJS",
-        desc: "This website and my first professional personal website.",
+        desc: "My first professional personal website.",
         gitLink: "https://github.com/pumkhai1/web-project",
     },
     {
