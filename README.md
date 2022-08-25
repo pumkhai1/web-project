@@ -1,3 +1,8 @@
+# Personal Website
+
+This is my personal website. I used ReactJS to build this website. It showcase my personal projects, experiences, and resume.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
