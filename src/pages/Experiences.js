@@ -8,6 +8,7 @@ import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import WorkIcon from "@material-ui/icons/Work";
 
+
 import "../styles/Experiences.css"
 
 function Experience() {
@@ -84,6 +85,20 @@ function Experience() {
               West Lafayette, IN
             </h4>
             <p>As part of my role as an Undergraduate Data Science Researcher for the academic year 2021 to 2022, I collaborated with Caterpillar. My main contribution is the overall project's high level plan.</p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement className='vertical-timeline-element--education' 
+            date='2021-2022'
+            iconStyle={{background: "#e9d35b", color: "#fff"}}
+            icon={<WorkIcon/>}
+          >
+            <h3 className='vertical-timeline-element-title'> 
+               Publicity Director - Myanmar Student Association - Purdue Univeristy
+            </h3>
+            <h4 className='vertical-timeline-element-title'>
+              West Lafayette, IN
+            </h4>
+            <p>As a publicity director, I am responsible for brainstorming and designing program for outreach to Purdue community. Secondly, I maintained social media coount for MYSA.</p>
           </VerticalTimelineElement>
       </VerticalTimeline>    
     </div>
